@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import { HeaderComponent } from './header/header.component';
-import { CategorynavigationComponent } from './categorynavigation/categorynavigation.component';
+import { HeaderComponent } from './home/components/header/header.component';
+import { CategorynavigationComponent } from './home/components/categorynavigation/categorynavigation.component';
 
 @Component({
   selector: 'app-root',
